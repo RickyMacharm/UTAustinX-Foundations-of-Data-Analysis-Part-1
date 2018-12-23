@@ -1,6 +1,6 @@
 # UTAustinX Foundations of Data Analysis Part 1
 
-[Edx Course](https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.11x+2T2017/course/)
+[edX Course](https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.11x+2T2017/course/)
 
 | Title | Start | End |
 |-------|-------|-----|
