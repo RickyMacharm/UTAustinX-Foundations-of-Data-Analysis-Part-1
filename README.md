@@ -6,7 +6,7 @@
 
 | Title | Start | End |
 |-------|-------|-----|
-| 1: Introduction to Data | | 
+| [1: Introduction to Data](1-introduction-to-data) | | 
 | 2: Univariate Descriptive Statistics | |
 | 3: Bivariate Distributions | |
 | 4: Bivariate Distributions (Categorical Data) | |
