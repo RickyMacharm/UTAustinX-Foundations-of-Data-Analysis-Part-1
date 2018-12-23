@@ -27,7 +27,7 @@
   - can assign function result to variable: y <- x^2
   - variable name also case sensitive
 
-### [3. R Basics Quiz 1](3-r-basics-quiz-1.md)
+### [3. R Basics Quiz 1](03-r-basics-quiz-1.md)
 
 ### [4. Vectors 4:44](https://www.youtube.com/watch?v=BlczFCo6g0s)
 ### [5. Indexing 3:30](https://www.youtube.com/watch?v=vNotoCLYp7M)
