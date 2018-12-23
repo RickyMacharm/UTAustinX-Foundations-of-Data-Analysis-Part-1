@@ -50,3 +50,7 @@
 ### [7. Importing a Data Frame 6:00](https://www.youtube.com/watch?v=IZ0cuIgpEQk)
 ### [8. Indexing Data Frames 9:30](https://www.youtube.com/watch?v=c1bOcStlGgM)
 ### 9. R Basics Quiz 3
+
+## Pre-Lab
+
+## Lab
