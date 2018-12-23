@@ -21,14 +21,14 @@
 ### [2. Functions and Objects 4:39](https://www.youtube.com/watch?v=uSpM3NUrLig)
 - Introduce common functions
 
-| Question | Answer| 
-|----------|-------|
-| Arguments for function | at least one, sqrt(25) |
-| is name case sensitive | Yes |
-| ask for help | ?sqrt for help on syntex |
-| assign object | x <- 5 |
-| assign function result to variable | y <- x^2 |
-| variable name is case sensitive | Yes |
+| Question | | | | Answer | 
+|----------|-|-|-|--------|
+| Arguments for function | | | | at least one, sqrt(25) |
+| is name case sensitive | | | | Yes |
+| ask for help | | | |  ?sqrt for help on syntex |
+| assign object | | | |  x <- 5 |
+| assign function result to variable | | | |  y <- x^2 |
+| variable name is case sensitive | | | |  Yes |
 
 ### [3. R Basics Quiz 1](03-r-basics-quiz-1.md)
 | Question | Answer| 
