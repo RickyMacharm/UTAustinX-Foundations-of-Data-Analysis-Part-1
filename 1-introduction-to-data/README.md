@@ -13,6 +13,11 @@
 ## R Tutorial Videos
 
 ### [1. Introduction to RStudio 4:40](https://www.youtube.com/watch?v=87e3QQx59hg)
+- Woring in the R Studio environment
+- Use R as calculator
+- Importance of storing code in a script file
+
+
 - [2. Functions and Objects 4:39](https://www.youtube.com/watch?v=uSpM3NUrLig)
 - 3. R Basics Quiz 1
 - [4. Vectors 4:44](https://www.youtube.com/watch?v=BlczFCo6g0s)
