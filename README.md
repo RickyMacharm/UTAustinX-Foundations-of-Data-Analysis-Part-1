@@ -2,7 +2,7 @@
 
 | Platform | Institution | Instuctors | Duration | Efford | Certificate |
 |----------|-------------|------------|----------|--------|------|
-| [edX](https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.11x+2T2017/course/) | University of Texas at Austin | Dr. Michael J. Mahometa <br> Scott Carlton | 6 Weeks | 10 Hours | N/A | 
+| edX [(Course Link)](https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.11x+2T2017/course/) | University of Texas at Austin | Dr. Michael J. Mahometa <br> Scott Carlton | 6 Weeks | 10 Hours | N/A | 
 
 | Title | Start | End |
 |-------|-------|-----|
