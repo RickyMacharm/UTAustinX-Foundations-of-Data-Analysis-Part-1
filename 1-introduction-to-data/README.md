@@ -18,11 +18,20 @@
 - Importance of storing code in a script file
 
 
-- [2. Functions and Objects 4:39](https://www.youtube.com/watch?v=uSpM3NUrLig)
-- 3. R Basics Quiz 1
-- [4. Vectors 4:44](https://www.youtube.com/watch?v=BlczFCo6g0s)
-- [5. Indexing 3:30](https://www.youtube.com/watch?v=vNotoCLYp7M)
-- 6. R Basics Quiz 2
-- [7. Importing a Data Frame 6:00](https://www.youtube.com/watch?v=IZ0cuIgpEQk)
-- [8. Indexing Data Frames 9:30](https://www.youtube.com/watch?v=c1bOcStlGgM)
-- 9. R Basics Quiz 3
+### [2. Functions and Objects 4:39](https://www.youtube.com/watch?v=uSpM3NUrLig)
+- Introduce common functions
+  - at least one argument, sqrt(25)
+  - case sensitive
+  - ?sqrt for help on syntex
+  - how to assign object in R:  x <- 5
+  - can assign function result to variable: y <- x^2
+  - variable name also case sensitive
+
+### 3. R Basics Quiz 1
+
+### [4. Vectors 4:44](https://www.youtube.com/watch?v=BlczFCo6g0s)
+### [5. Indexing 3:30](https://www.youtube.com/watch?v=vNotoCLYp7M)
+### 6. R Basics Quiz 2
+### [7. Importing a Data Frame 6:00](https://www.youtube.com/watch?v=IZ0cuIgpEQk)
+### [8. Indexing Data Frames 9:30](https://www.youtube.com/watch?v=c1bOcStlGgM)
+### 9. R Basics Quiz 3
