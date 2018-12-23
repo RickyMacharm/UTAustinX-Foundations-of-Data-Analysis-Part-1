@@ -23,12 +23,12 @@
 
 | Question | Answer | 
 |----------|--------|
-| Arguments for function | at least one, sqrt(25) |
-| is name case sensitive | Yes |
-| ask for help | ?sqrt for help on syntex |
-| assign object | x <- 5 |
-| assign function result to variable | y <- x^2 |
-| variable name is case sensitive | Yes |
+| 1. Arguments for function | at least one, sqrt(25) |
+| 2. is name case sensitive | Yes |
+| 3. ask for help | ?sqrt for help on syntex |
+| 4. assign object | x <- 5 |
+| 5. assign function result to variable | y <- x^2 |
+| 6. variable name is case sensitive | Yes |
 
 ### [3. R Basics Quiz 1](03-r-basics-quiz-1.md)
 | Question | Answer| 
